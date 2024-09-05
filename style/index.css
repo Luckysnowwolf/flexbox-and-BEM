@@ -1,0 +1,27 @@
+
+.layout-one {
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: warp;
+    justify-content: center;
+    background-color: #bbcae2
+}
+
+.box-one {
+width: 468px;
+height: 160px;
+margin-top: 20px;
+margin-left: 20px;
+display: inline-flex;
+justify-content: flex-start;
+align-items: flex-end;
+background-color: #15132b;
+border-radius: 5px;
+
+
+
+
+
+
+
+}
