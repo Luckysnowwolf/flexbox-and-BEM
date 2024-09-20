@@ -43,6 +43,7 @@ margin-bottom: 20px;
 }
 
 .box-two {
+    display: flex;
     width: 468px;
     min-height: 100px;
     margin-top: 20px;
@@ -55,9 +56,9 @@ margin-bottom: 20px;
 
     
 .box-two___box {
+    display: flex;
     width: 78px;
     height: 120px;
-    align-self: stretch;
     background-color: #1f01ff;
     border-radius: 5px;
     margin-top: 20px;
